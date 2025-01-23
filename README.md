@@ -1,5 +1,7 @@
 ## Halo namaku Eza😊
 
+<img src="path/to/your/animation.svg" alt="My Animation">
+
 <!--
 **Ezaa777/Ezaa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
