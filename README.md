@@ -1,6 +1,4 @@
-# Website-beta-1.0.0
-
-![Anime Logo]([https://path/to/your/animated-logo.gif](https://www.google.com/search?client=ms-android-xiaomi-rvo3&sca_esv=8e51937e604c7cc8&sxsrf=AHTn8zrHTzrVRtoRX0CoL0XEjO1Qs6onWw:1737631117056&q=anime&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMvlShZUHgaGO_QEj-dLI1_vAqr2MQi6DakG0RFuAkZdueq9WzhD4LORLkUZUCbjDxShEne3fP19emP6r0-eCV9iweZXHCIJOgEllsmOwDCL0D6JZFMeDZE_byvwlBVGG5XP65VLjCkdLO8FrCtpRh-aTz-CDw&sa=X&ved=2ahUKEwjzj-6r3IuLAxUfSGwGHfbVK6QQtKgLegQIFBAB&biw=364&bih=703&dpr=2.75#vhid=bTHoKmeMlFZ3wM&vssid=mosaic))
+## Halo namaku Eza😊
 
 <!--
 **Ezaa777/Ezaa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
